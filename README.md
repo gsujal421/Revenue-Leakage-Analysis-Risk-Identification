@@ -1,4 +1,4 @@
-# 📦 Revenue Leakage Detection System
+# 📦 Revenue Leakage Analysis & Risk Identification
 
 Analyzed transactional data to identify patterns in delayed payments and high-risk customers, uncovering ₹79K+ in potential revenue leakage using SQL and Python.
 
